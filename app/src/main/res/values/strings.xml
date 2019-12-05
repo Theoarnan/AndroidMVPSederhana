@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">JEMProperty</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_pembelian">Pembelian</string>
+    <string name="menu_pembayaran">Pembayaran</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_search">search</string>
+    <string name="search_hint">Cari Property</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="error_empty">Tidak ditemukan</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tambah_property">Tambah Property</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="all_property">All Property</string>
+    <string name="account">Account</string>
+    <string name="favorites">FAVORITE</string>
+    <string name="toCart">KERANJANG</string>
+    <string name="update">UPDATE</string>
+    <string name="home">Home</string>
+</resources>
